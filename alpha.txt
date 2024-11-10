@@ -1,0 +1,4 @@
+This is the alpha file, which is committed to bad path local repo connected to remote cloud GitHub
+repo which does not contains any repo. This not going to be happy path. Difficult one.
+
+
